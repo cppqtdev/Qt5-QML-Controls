@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AppStyle.qml</file>
+        <file>fonts/Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>fonts/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>fonts/Font Awesome 5 Free-Solid-900.otf</file>
+        <file>fonts/Font Awesome 5 Pro-Light-300.otf</file>
+        <file>fonts/Font Awesome 5 Pro-Regular-400.otf</file>
+        <file>fonts/Font Awesome 5 Pro-Solid-900.otf</file>
+        <file>fonts/Nunito-Bold.ttf</file>
+        <file>fonts/Nunito-Light.ttf</file>
+        <file>fonts/Nunito-Medium.ttf</file>
+        <file>fonts/Nunito-Regular.ttf</file>
+        <file>FontSystem.qml</file>
+        <file>Components/Label.qml</file>
+        <file>Components/TextField.qml</file>
+        <file>Components/UrlTextField.qml</file>
+        <file>Components/RoundRectangle.qml</file>
+        <file>Components/TagTextField.qml</file>
+        <file>Components/LabelSelector.qml</file>
+        <file>Components/CheckBox.qml</file>
+        <file>Components/Switch.qml</file>
+        <file>Images/moon.svg</file>
+        <file>Images/sun.svg</file>
+        <file>Components/ThemeSwitch.qml</file>
+        <file>Components/Stepper.qml</file>
+        <file>Images/arrow-down.svg</file>
+        <file>Images/arrow-up.svg</file>
+        <file>Components/ComboBox.qml</file>
+        <file>Components/ComboBoxListModel.qml</file>
+        <file>Images/tick.svg</file>
+        <file>Components/PrefsComboBox.qml</file>
+        <file>Components/Button.qml</file>
+        <file>Components/MiniButton.qml</file>
+        <file>Components/PasswordField.qml</file>
+        <file>Images/eye-off.svg</file>
+        <file>Images/eye-on.svg</file>
+        <file>Components/IconButton.qml</file>
+        <file>Images/add.svg</file>
+        <file>Images/airdrop.svg</file>
+        <file>Images/airplane.svg</file>
+        <file>Images/archive-add.svg</file>
+        <file>Images/arrow.svg</file>
+        <file>Components/FooterButton.qml</file>
+        <file>Components/TabButtonMini.qml</file>
+        <file>Components/TabButton.qml</file>
+        <file>Components/PrefsSlider.qml</file>
+    </qresource>
+</RCC>
